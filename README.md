@@ -1,2 +1,2 @@
-# AstroScope
+# Expense Tracker
 
